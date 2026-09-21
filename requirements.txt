@@ -1,0 +1,13 @@
+# Versions the reported runs used (Python 3.10.18, CUDA 12.8).
+torch==2.10.0
+transformers==4.57.6
+peft==0.21.0
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.3.3
+soundfile==0.14.0
+jiwer==4.0.0
+rapidfuzz==3.14.5
+unidecode==1.4.0
+numba
+accelerate==1.15.0

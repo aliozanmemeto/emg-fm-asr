@@ -1,0 +1,12 @@
+# data, features, checkpoints and logs never enter the repository (GDPR: the corpus stays on chair storage)
+cache
+cache/
+runs
+runs/
+logs/
+__pycache__/
+*.pyc
+*.pt
+*.npy
+*.out
+tests/out/
